@@ -1,0 +1,32 @@
+STUDY ID: smith_2022
+TITLE: Accuracy of a rapid antigen test for SARS-CoV-2 in symptomatic adults
+
+========================
+METHODS – STUDY SETTING
+========================
+The study was conducted at a tertiary-care hospital inpatient service between March and June 2022.
+
+========================
+METHODS – PARTICIPANTS
+========================
+All eligible patients presenting with symptoms consistent with COVID-19 during the study period were enrolled consecutively. Patients were excluded if informed consent could not be obtained.
+
+========================
+METHODS – INDEX TEST
+========================
+The index test was a commercially available rapid antigen assay. Test results were interpreted according to the manufacturer's instructions for use. The positivity threshold specified by the manufacturer was applied.
+
+========================
+METHODS – REFERENCE STANDARD
+========================
+Reverse transcription polymerase chain reaction (RT-PCR) was used as the reference standard for confirming SARS-CoV-2 infection. PCR results were interpreted by laboratory staff blinded to the index test results.
+
+========================
+METHODS – PROCEDURES
+========================
+Index testing and PCR sampling were performed during the same clinical encounter.
+
+========================
+RESULTS – PARTICIPANT FLOW
+========================
+A total of 412 patients were enrolled. Of these, 63 participants were excluded from the final analysis due to missing PCR results.
